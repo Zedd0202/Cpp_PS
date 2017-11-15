@@ -22,6 +22,7 @@
 		148CE7711FBC00B00016D00D /* C++_PS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++_PS"; sourceTree = BUILT_PRODUCTS_DIR; };
 		148CE7741FBC00B00016D00D /* 4963_섬의개수(bfs).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(bfs).cpp"; sourceTree = "<group>"; };
 		148CE77B1FBC04F30016D00D /* 4963_섬의개수(dfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(dfs).cpp"; sourceTree = "<group>"; };
+		148CE77E1FBC06190016D00D /* 2667_단지번호 붙이기(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2667_단지번호 붙이기(bfs).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				148CE7741FBC00B00016D00D /* 4963_섬의개수(bfs).cpp */,
 				148CE77B1FBC04F30016D00D /* 4963_섬의개수(dfs).cpp */,
+				148CE77E1FBC06190016D00D /* 2667_단지번호 붙이기(bfs).cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";
