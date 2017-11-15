@@ -32,6 +32,7 @@
 		148CE78D1FBC284C0016D00D /* 1753_최단경로(다익스트라).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1753_최단경로(다익스트라).cpp"; sourceTree = "<group>"; };
 		148CE78F1FBC2B500016D00D /* 2589_보물섬(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2589_보물섬(bfs).cpp"; sourceTree = "<group>"; };
 		148CE7931FBC57570016D00D /* 7576_토마토(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "7576_토마토(bfs).cpp"; sourceTree = "<group>"; };
+		148CE7951FBC603B0016D00D /* 1012_유기농배추(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1012_유기농배추(bfs).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 				148CE78D1FBC284C0016D00D /* 1753_최단경로(다익스트라).cpp */,
 				148CE78F1FBC2B500016D00D /* 2589_보물섬(bfs).cpp */,
 				148CE7931FBC57570016D00D /* 7576_토마토(bfs).cpp */,
+				148CE7951FBC603B0016D00D /* 1012_유기농배추(bfs).cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";

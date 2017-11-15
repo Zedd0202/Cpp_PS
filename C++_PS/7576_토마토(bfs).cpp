@@ -63,7 +63,6 @@ int main()
             }
         }
     }
-    
     bfs();
     if (sol!=0){
         cout<<"-1"<<endl;
