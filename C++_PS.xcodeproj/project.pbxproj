@@ -25,6 +25,7 @@
 		148CE77E1FBC06190016D00D /* 2667_단지번호 붙이기(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2667_단지번호 붙이기(bfs).cpp"; sourceTree = "<group>"; };
 		148CE7801FBC0A700016D00D /* 1912_연속합.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1912_연속합.cpp"; sourceTree = "<group>"; };
 		148CE7831FBC0FBC0016D00D /* 1920_수찾기.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1920_수찾기.cpp"; sourceTree = "<group>"; };
+		148CE7851FBC11B70016D00D /* 2178_미로탐색.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2178_미로탐색.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				148CE77E1FBC06190016D00D /* 2667_단지번호 붙이기(bfs).cpp */,
 				148CE7801FBC0A700016D00D /* 1912_연속합.cpp */,
 				148CE7831FBC0FBC0016D00D /* 1920_수찾기.cpp */,
+				148CE7851FBC11B70016D00D /* 2178_미로탐색.cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";
