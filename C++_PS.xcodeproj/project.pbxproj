@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		148CE77D1FBC04F30016D00D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 148CE77B1FBC04F30016D00D /* main.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		148CE76F1FBC00B00016D00D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,7 +21,7 @@
 /* Begin PBXFileReference section */
 		148CE7711FBC00B00016D00D /* C++_PS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++_PS"; sourceTree = BUILT_PRODUCTS_DIR; };
 		148CE7741FBC00B00016D00D /* 4963_섬의개수(bfs).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(bfs).cpp"; sourceTree = "<group>"; };
-		148CE77B1FBC04F30016D00D /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		148CE77B1FBC04F30016D00D /* 4963_섬의개수(dfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(dfs).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				148CE7741FBC00B00016D00D /* 4963_섬의개수(bfs).cpp */,
-				148CE77B1FBC04F30016D00D /* main.cpp */,
+				148CE77B1FBC04F30016D00D /* 4963_섬의개수(dfs).cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";
@@ -122,7 +118,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				148CE77D1FBC04F30016D00D /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
