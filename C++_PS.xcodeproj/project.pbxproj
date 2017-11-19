@@ -34,6 +34,7 @@
 		148CE7931FBC57570016D00D /* 7576_토마토(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "7576_토마토(bfs).cpp"; sourceTree = "<group>"; };
 		148CE7951FBC603B0016D00D /* 1012_유기농배추(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1012_유기농배추(bfs).cpp"; sourceTree = "<group>"; };
 		148CE7971FBC64540016D00D /* 10211_Maximum Subarray(dp).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "10211_Maximum Subarray(dp).cpp"; sourceTree = "<group>"; };
+		148CE7A71FBF130D0016D00D /* 2644_촌수계산(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "2644_촌수계산(bfs).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,7 @@
 				148CE7931FBC57570016D00D /* 7576_토마토(bfs).cpp */,
 				148CE7951FBC603B0016D00D /* 1012_유기농배추(bfs).cpp */,
 				148CE7971FBC64540016D00D /* 10211_Maximum Subarray(dp).cpp */,
+				148CE7A71FBF130D0016D00D /* 2644_촌수계산(bfs).cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";
