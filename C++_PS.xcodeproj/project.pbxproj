@@ -19,7 +19,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1468AB2C1FC2EDB300E03829 /* 쉬운 최단거리.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "쉬운 최단거리.cpp"; sourceTree = "<group>"; };
+		1468AB2C1FC2EDB300E03829 /* 14940_쉬운 최단거리(bfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "14940_쉬운 최단거리(bfs).cpp"; sourceTree = "<group>"; };
+		148A5A7C1FCACD240037F2DF /* 14894_ 퀵소트cnt++.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "14894_ 퀵소트cnt++.cpp"; sourceTree = "<group>"; };
 		148CE7711FBC00B00016D00D /* C++_PS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++_PS"; sourceTree = BUILT_PRODUCTS_DIR; };
 		148CE7741FBC00B00016D00D /* 4963_섬의개수(bfs).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(bfs).cpp"; sourceTree = "<group>"; };
 		148CE77B1FBC04F30016D00D /* 4963_섬의개수(dfs).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4963_섬의개수(dfs).cpp"; sourceTree = "<group>"; };
@@ -85,7 +86,8 @@
 				148CE7971FBC64540016D00D /* 10211_Maximum Subarray(dp).cpp */,
 				148CE7A71FBF130D0016D00D /* 2644_촌수계산(bfs).cpp */,
 				14FE915A1FC27D09009590F6 /* 2748_피보나치수 2(dp).cpp */,
-				1468AB2C1FC2EDB300E03829 /* 쉬운 최단거리.cpp */,
+				1468AB2C1FC2EDB300E03829 /* 14940_쉬운 최단거리(bfs).cpp */,
+				148A5A7C1FCACD240037F2DF /* 14894_ 퀵소트cnt++.cpp */,
 			);
 			path = "C++_PS";
 			sourceTree = "<group>";
